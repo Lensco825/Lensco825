@@ -1,3 +1,4 @@
+![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 - 👋 Hi, I’m @Lensco825
 - 👀 I’m interested in ... Computer Science, guitar, and games.
 - 🌱 I’m currently learning ... React, but i'm also learning some more Javascript and CSS.
