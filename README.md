@@ -1,4 +1,6 @@
 ![](https://www.codewars.com/users/Lensco825/badges/large)
+<br>
+<a href="https://app.daily.dev/lenscode14"><img src="https://api.daily.dev/devcards/v2/JV1eiAT0LZWTU92RaonHP.png?type=default&r=r47" width="356" alt="Lens D.'s Dev Card"/></a>
 - 👋 Hi, I’m @Lensco825
 - 👀 I’m interested in ... Computer Science, guitar, and games.
 - 🌱 I’m currently learning ... React, but i'm also learning some more Javascript and CSS.
